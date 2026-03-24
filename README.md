@@ -27,6 +27,9 @@ Run the script: python webcam_effects.py
 
 ---
 
+
+---
+
 ## License
 
 MIT License – feel free to use and modify!
